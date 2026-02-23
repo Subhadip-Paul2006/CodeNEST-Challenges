@@ -10,7 +10,8 @@ public:
         for (int num : arr) {
             if (num % 2 == 0) {
                 evenCount++;
-            } else {
+            } 
+            else {
                 oddCount++;
             }
         }
@@ -31,3 +32,4 @@ int main() {
     return 0;
 
 }
+
